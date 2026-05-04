@@ -1,22 +1,56 @@
-## Olá 👋, eu sou o Gustavo Borges!
+## Olá 👋, eu sou o Gustavo Borges
 
-Sou Analista de Sistemas e Desenvolvedor Full-Stack, focado em criar soluções eficientes, interfaces modernas e infraestruturas robustas. Tenho experiência com integrações complexas e automatização de fluxos de trabalho utilizando Inteligência Artificial.
+**Solution Architect | Full-Stack Engineer**
 
-### 👨‍💻 Sobre mim
+Atuo na concepção e implementação de **arquiteturas escaláveis**, integrando sistemas complexos e aplicando Inteligência Artificial para resolver problemas reais em ambientes de alta demanda.
 
-- 🔭 Atualmente atuando na Prefeitura de São Paulo (ARQUIP), desenvolvendo sistemas como o Palácio da Memória e o SIGAD.
-- 🧠 Focado em integrar IA (Modelos Gemini, Gemma, Qwen, pipelines de OCR e RAG) para otimizar processos documentais e administrativos.
-- 🌱 Estudando e aprimorando minhas habilidades em tecnologia na UNIITALO.
-- 🛠 Experiência sólida em infraestrutura (Linux, Nginx, gerenciamento de servidores e storage) e desenvolvimento em múltiplas linguagens.
-- ⚡ Curiosidade: Gosto de criar layouts limpos, modernos e premium utilizando ferramentas como Bootstrap e Tailwind CSS.
+Foco em **performance, confiabilidade e automação**, transformando processos manuais em sistemas resilientes, auditáveis e orientados a dados.
 
-### 🚀 Tecnologias e Ferramentas
+---
 
-- **Back-end & Infraestrutura:** Python (Flask/FastAPI), Node.js (Express), PHP (Symfony), Java, Linux, Nginx.
-- **Front-end & Mobile:** React Native, Expo, Bootstrap, Tailwind CSS.
-- **Desktop & Ferramentas:** Electron, integração com certificados ICP-Brasil.
+### 🧠 Arquitetura & Impacto
 
-### 📊 Minhas Estatísticas
+- 🏛️ Atuação na Prefeitura de São Paulo (ARQUIP), liderando a evolução de sistemas estratégicos como **Palácio da Memória** e **SIGAD**, voltados à gestão documental em larga escala  
+- ⚙️ Experiência na definição de **arquiteturas de solução**, incluindo:
+  - Sistemas distribuídos e integrações entre múltiplos serviços
+  - Orquestração de pipelines de processamento documental
+  - Estruturação de APIs e serviços resilientes
+- 🤖 Implementação de **IA em produção**, com foco em:
+  - OCR de alta confiabilidade para documentos críticos
+  - Arquiteturas com **RAG (Retrieval-Augmented Generation)**
+  - Integração com modelos como **Gemini, Gemma e Qwen**
+- 🔄 Automação de processos administrativos, com ganho de eficiência operacional e rastreabilidade  
+- 🧩 Atuação em cenários de **modernização de sistemas legados**, garantindo interoperabilidade e continuidade operacional  
+
+---
+
+### ⚙️ Stack & Ecossistema
+
+- **Arquitetura & Back-end**  
+  Python (FastAPI, Flask), Node.js (Express), PHP (Symfony), Java  
+
+- **Infraestrutura & Confiabilidade**  
+  Linux, Nginx, servidores, redes, storage, tuning de performance  
+
+- **Front-end & Mobile**  
+  React Native, Expo, Tailwind CSS, Bootstrap  
+
+- **Desktop & Integrações**  
+  Electron, integração com certificados digitais (ICP-Brasil)  
+
+---
+
+### 🚀 Diferenciais
+
+- Pensamento orientado a **arquitetura e escalabilidade**
+- Forte capacidade de atuação **end-to-end (infra + back-end + front-end)**
+- Experiência com **dados sensíveis e sistemas críticos**
+- Foco em **performance, governança e longevidade das soluções**
+- Aplicação prática de IA em cenários reais (não apenas experimental)
+
+---
+
+### 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/GustavoFOBorges">
@@ -24,8 +58,10 @@ Sou Analista de Sistemas e Desenvolvedor Full-Stack, focado em criar soluções 
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoFOBorges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
- 
-### 📫 Contatos
+
+---
+
+### 📫 Contato
 
 <div>
   <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
