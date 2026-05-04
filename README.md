@@ -1,4 +1,4 @@
-## Hi there 👋, eu sou o Gustavo Borges!
+## Olá 👋, eu sou o Gustavo Borges!
 
 Sou Analista de Sistemas e Desenvolvedor Full-Stack, focado em criar soluções eficientes, interfaces modernas e infraestruturas robustas. Tenho experiência com integrações complexas e automatização de fluxos de trabalho utilizando Inteligência Artificial.
 
